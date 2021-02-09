@@ -1,0 +1,48 @@
+.encabezado {
+    line-height: 0%;
+    animation: encabezado ease 5s;
+    -webkit-animation: encabezado ease 5s;
+    -moz-animation: encabezado ease 5s;
+    -o-animation: encabezado ease 5s;
+    -ms-animation: encabezado ease 5s;
+}
+
+@keyframes encabezado {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-moz-keyframes encabezado {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-webkit-keyframes encabezado {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-o-keyframes encabezado {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-ms-keyframes encabezado {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+    text-align: center;
+    animation-duration: 3s;
+    animation-name: xtabite ;
+}
+
+h2 {
+    text-align: center;
+    font-family: monospace;
+}
+
+@keyframes 
