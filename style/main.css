@@ -1,3 +1,9 @@
+.contendor{
+  width: 80%;
+  max-width: 1000px;
+  margin: 0 auto ;
+}
+
 .encabezado {
     line-height: 0%;
     animation: encabezado ease 7s;
