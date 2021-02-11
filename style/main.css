@@ -1,10 +1,3 @@
-@media all and (max-width: 600px){
-  div{
-      width:100%;
-      height:auto;
-      margin-left:10px;
-  }
-}
 .encabezado {
     line-height: 0%;
     animation: encabezado ease 7s;
