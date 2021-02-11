@@ -1,6 +1,6 @@
 .encabezado {
     line-height: 0%;
-    animation: encabezado ease 5s;
+    animation: encabezado ease 7s;
     -webkit-animation: encabezado ease 5s;
     -moz-animation: encabezado ease 5s;
     -o-animation: encabezado ease 5s;
@@ -53,6 +53,7 @@ img{
   width: 30%;
   display: inline-block;
   margin: 0 auto;
+  padding: 0 10px;
 }
 
 figure{
@@ -72,13 +73,14 @@ nav .menuItems li {
   margin: 20px;
   float: left;
   width: 25%;
+  text-align: center;
 }
 nav .menuItems li a {
   text-decoration: none;
   color: #8f8f8f;
-  font-size: 17px;
+  font-size: 18px;
   font-weight: 400;
-  font-family: arial;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   transition: all 0.5s ease-in-out;
   position: relative;
   text-transform: capitalize;
