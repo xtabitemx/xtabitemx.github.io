@@ -1,6 +1,12 @@
 @media only screen and (max-width: 700px) {
 
-}
+  #rt-main, #rt-header, .rt-container, .rt-container .rt-grid-8, .rt-container .rt-grid-8,.rt-container .rt-grid-9, .footer-container, .rt-container .rt-grid-3, .rt-container .rt-grid-6 {width: 99%;}
+  
+   body{min-width: 100%;}
+  
+   .rt-container .rt-grid-4 {display: none;}
+  
+  }
 
 .encabezado {
     line-height: 0%;
