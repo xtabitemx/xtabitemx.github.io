@@ -45,4 +45,7 @@ h2 {
     font-family: monospace;
 }
 
-@keyframes 
+img{
+  margin: 0 auto;
+  display: block;
+}
