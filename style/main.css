@@ -1,13 +1,10 @@
-@media only screen and (max-width: 700px) {
-
-  #rt-main, #rt-header, .rt-container, .rt-container .rt-grid-8, .rt-container .rt-grid-8,.rt-container .rt-grid-9, .footer-container, .rt-container .rt-grid-3, .rt-container .rt-grid-6 {width: 99%;}
-  
-   body{min-width: 100%;}
-  
-   .rt-container .rt-grid-4 {display: none;}
-  
+@media all and (max-width: 600px){
+  div{
+      width:100%;
+      height:auto;
+      margin-left:10px;
   }
-
+}
 .encabezado {
     line-height: 0%;
     animation: encabezado ease 7s;
