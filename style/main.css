@@ -51,6 +51,12 @@ h2 {
 
 img{
   width: 30%;
+  display: inline-block;
+  margin: 0 auto;
+}
+
+figure{
+  text-align: center;
 }
 
 nav {
