@@ -1,3 +1,7 @@
+@media only screen and (max-width: 700px) {
+
+}
+
 .encabezado {
     line-height: 0%;
     animation: encabezado ease 7s;
