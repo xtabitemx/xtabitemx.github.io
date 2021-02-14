@@ -61,7 +61,7 @@ img{
   display: inline-block;
   margin: 0 auto;
   padding: 0 10px;
-  display: none;
+  /*display: none;*/
 }
 
 figure{
