@@ -17,27 +17,7 @@
 @keyframes encabezado {
     0% {opacity:0;}
     100% {opacity:1;}
-  }
-  
-  @-moz-keyframes encabezado {
-    0% {opacity:0;}
-    100% {opacity:1;}
-  }
-  
-  @-webkit-keyframes encabezado {
-    0% {opacity:0;}
-    100% {opacity:1;}
-  }
-  
-  @-o-keyframes encabezado {
-    0% {opacity:0;}
-    100% {opacity:1;}
-  }
-  
-  @-ms-keyframes encabezado {
-    0% {opacity:0;}
-    100% {opacity:1;}
-  }
+}
 
 #xtabite{
   margin: 0px 0px 35px 0px;
